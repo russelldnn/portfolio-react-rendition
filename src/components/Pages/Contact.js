@@ -67,7 +67,7 @@ export default function Contact() {
           </p>
         </div>
 
-        <form className="form">
+        <form className="form" action="https://formsubmit.co/russelldnn@gmail.com" method="POST" >
           
           <div className="input-div">
             <label htmlFor="name">Name</label>
