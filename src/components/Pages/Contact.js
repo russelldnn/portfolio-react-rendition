@@ -3,7 +3,7 @@ import { validateEmail } from "../../utils/helpers";
 import Footer from "../Footer";
 import errorIcon from "../../assets/icons/error.png";
 import sendIcon from "../../assets/icons/send.png";
-import emailIcon from "../../assets/icons/email.png";
+
 
 export default function Contact() {
   const [name, setName] = useState("");

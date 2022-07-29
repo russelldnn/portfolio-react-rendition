@@ -1,12 +1,13 @@
 import React from "react";
 import Project from "../Project";
-// import images
 import Ecom from "../../assets/images/Ecommerce.png";
 import JATE from "../../assets/images/JATE.PNG";
 import NoSQL from "../../assets/images/NoSQL.png";
 import Note from "../../assets/images/NoteTaker.PNG";
 import ReadMeGen from "../../assets/images/readmegen.PNG";
 import Team from "../../assets/images/TeamProfile.PNG";
+
+
 
 export default function Portfolio() {
   const projects = [
@@ -73,6 +74,7 @@ export default function Portfolio() {
     <div>
       <h2 className="title">Projects</h2>
       <div className="row project">{projectItem}</div>
+      
     </div>
   );
 }

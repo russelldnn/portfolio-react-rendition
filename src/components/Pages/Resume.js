@@ -1,6 +1,7 @@
 import React from "react";
-import Res from "../../assets/resume/Resume_wwt.pdf";
+import Res from "../../assets/resume/resume-russell.pdf";
 import downloadIcon from "../../assets/icons/download.png";
+import Footer from "../Footer";
 
 export default function Resume() {
   return (
@@ -42,6 +43,7 @@ export default function Resume() {
           />
         </a>
       </div>
+      <Footer />
     </div>
   );
 }
