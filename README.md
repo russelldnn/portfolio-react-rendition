@@ -37,6 +37,18 @@
 
   # Questions
   if you have further questions feel free to email me at russelldnn@gmail.com or check my github for clarification at russelldnn
+  
+  # Deployment
+  
+  https://russelldnn.github.io/portfolio-react-rendition/
+  
+  # Showcase
+  ![1](https://user-images.githubusercontent.com/104922988/181829482-30f5db7e-6ffc-4a53-8d4d-7a35679901f7.PNG)
+  
+  ![2](https://user-images.githubusercontent.com/104922988/181829506-8d5db472-3d4f-4db5-9e96-8c6a279612a0.PNG)
+
+
+  
 
 
 
