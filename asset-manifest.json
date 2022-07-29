@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react-rendition/static/css/main.e8e3be21.css",
-    "main.js": "/portfolio-react-rendition/static/js/main.d3a4776b.js",
+    "main.js": "/portfolio-react-rendition/static/js/main.4ef040ae.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react-rendition/static/js/787.aeca62f9.chunk.js",
     "static/media/selfimage.jpg": "/portfolio-react-rendition/static/media/selfimage.9e14d178bee96c399e64.jpg",
     "static/media/resume-russell.pdf": "/portfolio-react-rendition/static/media/resume-russell.75a500100d902666b272.pdf",
@@ -16,11 +16,11 @@
     "static/media/linkedin.png": "/portfolio-react-rendition/static/media/linkedin.9e038773f5fee7cf1b48.png",
     "index.html": "/portfolio-react-rendition/index.html",
     "main.e8e3be21.css.map": "/portfolio-react-rendition/static/css/main.e8e3be21.css.map",
-    "main.d3a4776b.js.map": "/portfolio-react-rendition/static/js/main.d3a4776b.js.map",
+    "main.4ef040ae.js.map": "/portfolio-react-rendition/static/js/main.4ef040ae.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react-rendition/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8e3be21.css",
-    "static/js/main.d3a4776b.js"
+    "static/js/main.4ef040ae.js"
   ]
 }
