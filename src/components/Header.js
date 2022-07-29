@@ -5,7 +5,7 @@ import Navbar from "react-bootstrap/Navbar";
 export default function Header(props) {
   return (
     <Navbar collapseOnSelect className="navbar" variant="dark" expand="sm" aria-current="true">
-      <Navbar.Brand href="/portfolio-React" className="name">
+      <Navbar.Brand href="/portfolio-react-rendition" className="name">
         {" "}
         &lt;Russell Dunn/Home/&gt;
       </Navbar.Brand>
