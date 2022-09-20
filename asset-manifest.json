@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-react-rendition/static/css/main.e8e3be21.css",
-    "main.js": "/portfolio-react-rendition/static/js/main.4ef040ae.js",
+    "main.js": "/portfolio-react-rendition/static/js/main.1b42f3ec.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react-rendition/static/js/787.aeca62f9.chunk.js",
     "static/media/selfimage.jpg": "/portfolio-react-rendition/static/media/selfimage.9e14d178bee96c399e64.jpg",
-    "static/media/resume-russell.pdf": "/portfolio-react-rendition/static/media/resume-russell.75a500100d902666b272.pdf",
+    "static/media/reflections.PNG": "/portfolio-react-rendition/static/media/reflections.a82471c5f76c6e66ff79.PNG",
+    "static/media/flyt.png": "/portfolio-react-rendition/static/media/flyt.e8678eaa1def6847b343.png",
     "static/media/userIcon.png": "/portfolio-react-rendition/static/media/userIcon.6cb21224b3c7518efd61.png",
-    "static/media/Ecommerce.png": "/portfolio-react-rendition/static/media/Ecommerce.074244bc8d6017f823f2.png",
-    "static/media/NoSQL.png": "/portfolio-react-rendition/static/media/NoSQL.3b24e60a333db7e24b88.png",
-    "static/media/TeamProfile.PNG": "/portfolio-react-rendition/static/media/TeamProfile.9300bbc284db15eca99b.PNG",
+    "static/media/resume-russell.pdf": "/portfolio-react-rendition/static/media/resume-russell.b13272016593be26d2d4.pdf",
+    "static/media/forum.png": "/portfolio-react-rendition/static/media/forum.7f323638ef3b78dd0b93.png",
     "static/media/readmegen.PNG": "/portfolio-react-rendition/static/media/readmegen.a94f9cc208183229f49c.PNG",
     "static/media/JATE.PNG": "/portfolio-react-rendition/static/media/JATE.17d0157137dd72eaf813.PNG",
     "static/media/NoteTaker.PNG": "/portfolio-react-rendition/static/media/NoteTaker.7745e93a9635100ff03a.PNG",
@@ -16,11 +16,11 @@
     "static/media/linkedin.png": "/portfolio-react-rendition/static/media/linkedin.9e038773f5fee7cf1b48.png",
     "index.html": "/portfolio-react-rendition/index.html",
     "main.e8e3be21.css.map": "/portfolio-react-rendition/static/css/main.e8e3be21.css.map",
-    "main.4ef040ae.js.map": "/portfolio-react-rendition/static/js/main.4ef040ae.js.map",
+    "main.1b42f3ec.js.map": "/portfolio-react-rendition/static/js/main.1b42f3ec.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react-rendition/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8e3be21.css",
-    "static/js/main.4ef040ae.js"
+    "static/js/main.1b42f3ec.js"
   ]
 }
